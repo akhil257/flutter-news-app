@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "697502893243",
+    "project_id": "boltnews-f8526",
+    "storage_bucket": "boltnews-f8526.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:697502893243:android:66fddc1a6bc4cc8c8e559e",
+        "android_client_info": {
+          "package_name": "com.techmonks.bolt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "697502893243-c9r54nj2c4qmje2q1u67945ga2jkknmv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP_MixCruwku3xE1gi737zStm9QoUcPCc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "697502893243-c9r54nj2c4qmje2q1u67945ga2jkknmv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
